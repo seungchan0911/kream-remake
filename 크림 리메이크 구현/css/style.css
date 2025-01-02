@@ -16,6 +16,11 @@ body {
     display: none;
 }
 
+container {
+    display: flex;
+    justify-content: center;
+}
+
 /* header! */
 
 header {
