@@ -69,6 +69,7 @@
     box-sizing: border-box;
     color: inherit;
     font-family: 'Pretendard';
+    -webkit-tap-highlight-color: transparent;
 }
 
 body {
